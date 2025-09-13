@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Uno Tonto.
 - 👀 I’m interested in games.
 - 🌱 I’m currently learning GDScript.
-- 💞️ I’m looking to collaborate on my project.
+- 💞️ I’m looking to my monitors.
 - ⚡ Nice stuff:
   - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
   - [gitmoji](https://gitmoji.dev/)
